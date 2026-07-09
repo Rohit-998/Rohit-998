@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 3rd-Year CSE at RCOEM, Nagpur (CGPA 8.9)
+- 3rd-Year CSE at RCOEM, Nagpur
 - Full-Stack Developer (MERN + Next.js)
 - AI/ML Engineer -- Reinforcement Learning, LLMs, Computer Vision
 - Web Dev Team Member at Google Developer Group, RBU
